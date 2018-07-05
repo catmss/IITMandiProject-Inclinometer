@@ -1,8 +1,6 @@
 //Connect int pin to 12
-
 #include <SPI.h>
 #include <Wire.h>   
-
 
 //Magnetometer Registers
 #define AK8963_ADDRESS   0x0C
